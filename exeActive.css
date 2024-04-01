@@ -1,0 +1,81 @@
+
+section{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+/* #all{
+    display:flex;
+    flex-wrap: wrap;
+    margin: 2%;
+    border: 2px solid rgb(151, 4, 60);
+    width: 700px; 
+    height: 900px;
+} */
+div{
+    border: rgb(151, 4, 60) 4px  double;
+    border-radius: 5px;
+   background-color: rgb(241, 14, 127);
+   width: 200px;
+   height: 400px;
+   color: rgb(4, 113, 113);
+   /* font-weight: bold; */
+   text-align: center;
+   margin: 10px;
+   
+
+}
+.sett{
+   margin-top: 10px;
+   margin-right: 10px;margin-left: 20px;
+   width: 150px;
+   height: 45px;
+   background-color: rgb(200, 237, 18);
+    border-radius: 30px;
+
+}
+input{
+    margin-top: 100px;
+    margin-right: 10px;margin-left: 20px;
+    width: 150px;
+    height: 45px;   
+}
+p{
+    height: 150px;
+    width: 150px;
+    color: rgb(180, 3, 71)  ;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-style: initial;
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center; 
+    border: rgb(180, 3, 71) 3px  solid;
+    background-color: rgb(6, 229, 229);
+    border-radius: 10px; 
+    margin-bottom: 100px;
+    margin-left: 20px;
+}
+.ok{
+    margin-bottom: 30px;
+    margin-top: 80px;
+    margin-right: 10px;margin-left: 20px;
+    width: 150px;
+    height: 45px;
+    background-color: rgb(13, 99, 220);
+     border-radius: 30px; 
+}
+.a{
+    background-color: rgb(43, 234, 18);
+    height: 60px;
+}
+h3{
+    color: rgb(20, 255, 59);
+    font-weight: bolder;
+    margin-top: 30px;
+}
+h1{
+    color: deeppink;
+    /* font-size: large;
+    font-weight: bolder; */
+    text-align: center;
+}
